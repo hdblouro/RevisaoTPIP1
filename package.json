@@ -5,6 +5,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "index": "ts-node ./src/index",
+    "ex01": "ts-node ./src/Ex01",
+    "ex02": "ts-node ./src/Ex02",
     "ex12": "ts-node ./src/Ex12"
   },
   "keywords": [],
